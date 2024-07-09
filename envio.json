@@ -1,0 +1,182 @@
+[
+    {
+        "id": "1",
+        "cliente_id": "12",
+        "paquete_id": "3",
+        "fecha_envio": "01-04-2024 03:35:42",
+        "destino": 3,
+        "ruta_id": 14,
+        "sucursal_id": 15
+    },
+    {
+        "id": "2",
+        "cliente_id": "15",
+        "paquete_id": "16",
+        "fecha_envio": "19-06-2024 09:36:34",
+        "destino": 14,
+        "ruta_id": 19,
+        "sucursal_id": 7
+    },
+    {
+        "id": "3",
+        "cliente_id": "2",
+        "paquete_id": "16",
+        "fecha_envio": "30-01-2024 07:04:59",
+        "destino": 17,
+        "ruta_id": 1,
+        "sucursal_id": 10
+    },
+    {
+        "id": "4",
+        "cliente_id": "4",
+        "paquete_id": "4",
+        "fecha_envio": "17-02-2024 23:52:56",
+        "destino": 15,
+        "ruta_id": 17,
+        "sucursal_id": 19
+    },
+    {
+        "id": "5",
+        "cliente_id": "13",
+        "paquete_id": "11",
+        "fecha_envio": "16-01-2024 20:37:09",
+        "destino": 10,
+        "ruta_id": 3,
+        "sucursal_id": 4
+    },
+    {
+        "id": "6",
+        "cliente_id": "4",
+        "paquete_id": "16",
+        "fecha_envio": "15-03-2024 12:12:14",
+        "destino": 14,
+        "ruta_id": 3,
+        "sucursal_id": 19
+    },
+    {
+        "id": "7",
+        "cliente_id": "7",
+        "paquete_id": "16",
+        "fecha_envio": "16-02-2024 03:13:29",
+        "destino": 15,
+        "ruta_id": 5,
+        "sucursal_id": 7
+    },
+    {
+        "id": "8",
+        "cliente_id": "5",
+        "paquete_id": "18",
+        "fecha_envio": "11-06-2024 13:50:31",
+        "destino": 6,
+        "ruta_id": 4,
+        "sucursal_id": 7
+    },
+    {
+        "id": "9",
+        "cliente_id": "6",
+        "paquete_id": "11",
+        "fecha_envio": "01-04-2024 21:34:07",
+        "destino": 8,
+        "ruta_id": 8,
+        "sucursal_id": 13
+    },
+    {
+        "id": "10",
+        "cliente_id": "12",
+        "paquete_id": "8",
+        "fecha_envio": "29-06-2024 13:18:03",
+        "destino": 6,
+        "ruta_id": 8,
+        "sucursal_id": 19
+    },
+    {
+        "id": "11",
+        "cliente_id": "12",
+        "paquete_id": "10",
+        "fecha_envio": "05-04-2024 13:02:02",
+        "destino": 6,
+        "ruta_id": 5,
+        "sucursal_id": 11
+    },
+    {
+        "id": "12",
+        "cliente_id": "7",
+        "paquete_id": "11",
+        "fecha_envio": "24-06-2024 00:51:51",
+        "destino": 19,
+        "ruta_id": 8,
+        "sucursal_id": 10
+    },
+    {
+        "id": "13",
+        "cliente_id": "20",
+        "paquete_id": "15",
+        "fecha_envio": "26-06-2024 01:13:19",
+        "destino": 18,
+        "ruta_id": 19,
+        "sucursal_id": 2
+    },
+    {
+        "id": "14",
+        "cliente_id": "17",
+        "paquete_id": "8",
+        "fecha_envio": "22-03-2024 09:25:22",
+        "destino": 6,
+        "ruta_id": 12,
+        "sucursal_id": 10
+    },
+    {
+        "id": "15",
+        "cliente_id": "12",
+        "paquete_id": "13",
+        "fecha_envio": "12-04-2024 21:18:52",
+        "destino": 2,
+        "ruta_id": 8,
+        "sucursal_id": 1
+    },
+    {
+        "id": "16",
+        "cliente_id": "20",
+        "paquete_id": "4",
+        "fecha_envio": "23-04-2024 03:56:44",
+        "destino": 11,
+        "ruta_id": 4,
+        "sucursal_id": 11
+    },
+    {
+        "id": "17",
+        "cliente_id": "20",
+        "paquete_id": "9",
+        "fecha_envio": "21-04-2024 23:20:15",
+        "destino": 4,
+        "ruta_id": 8,
+        "sucursal_id": 10
+    },
+    {
+        "id": "18",
+        "cliente_id": "4",
+        "paquete_id": "16",
+        "fecha_envio": "06-07-2024 19:14:05",
+        "destino": 16,
+        "ruta_id": 14,
+        "sucursal_id": 11
+    },
+    {
+        "id": "19",
+        "cliente_id": "7",
+        "paquete_id": "12",
+        "fecha_envio": "26-05-2024 10:39:16",
+        "destino": 7,
+        "ruta_id": 11,
+        "sucursal_id": 6
+    },
+    {
+        "id": "20",
+        "cliente_id": "11",
+        "paquete_id": "1",
+        "fecha_envio": "10-05-2024 23:00:14",
+        "destino": 6,
+        "ruta_id": 2,
+        "sucursal_id": 17
+    }
+]

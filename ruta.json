@@ -1,0 +1,382 @@
+[
+    {
+        "name": "Hendersonbury-Farmerton",
+        "vehicle": {
+            "placa": "TGD5290",
+            "modelo": "2013",
+            "capacity_carga": "11",
+            "sucursal_id": 10,
+            "marca": "Peck, Fox and Osborn",
+            "description": "Church per prepare theory hot score.",
+            "conductor": {
+                "name": "Joseph Wood",
+                "phone": "(463)504-1076"
+            },
+            "auxiliar": {
+                "name": "Sherry Cooper",
+                "phone": "(423)947-0850"
+            }
+        }
+    },
+    {
+        "name": "Port Elizabethtown-Port Anthony",
+        "vehicle": {
+            "placa": "TG 17369",
+            "modelo": "2006",
+            "capacity_carga": "18",
+            "sucursal_id": 7,
+            "marca": "Hoffman, Mayo and Hernandez",
+            "description": "West hope ask three. Our should help design.",
+            "conductor": {
+                "name": "Margaret Stuart",
+                "phone": "001-657-632-8159x536"
+            },
+            "auxiliar": {
+                "name": "Mr. Jacob Andrade",
+                "phone": "2473333452"
+            }
+        }
+    },
+    {
+        "name": "Juliabury-South Jenniferland",
+        "vehicle": {
+            "placa": "1QW P22",
+            "modelo": "2013",
+            "capacity_carga": "12",
+            "sucursal_id": 10,
+            "marca": "Willis, Williams and Hernandez",
+            "description": "High half charge thus.",
+            "conductor": {
+                "name": "Brittney Edwards",
+                "phone": "727-055-8961"
+            },
+            "auxiliar": {
+                "name": "David Wong",
+                "phone": "+1-732-919-0950"
+            }
+        }
+    },
+    {
+        "name": "Stephenhaven-East Benjamin",
+        "vehicle": {
+            "placa": "8JB4892",
+            "modelo": "2008",
+            "capacity_carga": "6",
+            "sucursal_id": 8,
+            "marca": "Williams Group",
+            "description": "Get same still involve themselves according.",
+            "conductor": {
+                "name": "Peggy Bird",
+                "phone": "353.416.7804"
+            },
+            "auxiliar": {
+                "name": "Julie Garcia",
+                "phone": "+1-690-576-0582x2436"
+            }
+        }
+    },
+    {
+        "name": "Christopherfurt-South Robertfurt",
+        "vehicle": {
+            "placa": "T 776356",
+            "modelo": "2002",
+            "capacity_carga": "14",
+            "sucursal_id": 10,
+            "marca": "Scott Ltd",
+            "description": "Team back move quite dinner.",
+            "conductor": {
+                "name": "Tammy Hess",
+                "phone": "(650)257-7795"
+            },
+            "auxiliar": {
+                "name": "Michael Alexander",
+                "phone": "323-078-3914x606"
+            }
+        }
+    },
+    {
+        "name": "Valdeztown-North Cynthiafort",
+        "vehicle": {
+            "placa": "41-X181",
+            "modelo": "2010",
+            "capacity_carga": "4",
+            "sucursal_id": 2,
+            "marca": "Phillips, Nelson and Buck",
+            "description": "Easy anything quite operation police total.",
+            "conductor": {
+                "name": "Jamie Owens MD",
+                "phone": "001-619-033-5453x769"
+            },
+            "auxiliar": {
+                "name": "Noah Davis",
+                "phone": "251-236-2465x70012"
+            }
+        }
+    },
+    {
+        "name": "North Hannahfurt-Ryanland",
+        "vehicle": {
+            "placa": "UYP-228",
+            "modelo": "2018",
+            "capacity_carga": "10",
+            "sucursal_id": 5,
+            "marca": "Miller, Bell and Young",
+            "description": "Direction great against experience.",
+            "conductor": {
+                "name": "Eric Casey",
+                "phone": "503.918.6806x88022"
+            },
+            "auxiliar": {
+                "name": "Robert Wilkins",
+                "phone": "001-245-939-4964x418"
+            }
+        }
+    },
+    {
+        "name": "Stevenschester-Gonzalezhaven",
+        "vehicle": {
+            "placa": "760Q0",
+            "modelo": "2011",
+            "capacity_carga": "7",
+            "sucursal_id": 7,
+            "marca": "Rogers, Sharp and Day",
+            "description": "List yet front ball.",
+            "conductor": {
+                "name": "Paul Hill",
+                "phone": "(043)413-7326x639"
+            },
+            "auxiliar": {
+                "name": "Stacey Rodriguez",
+                "phone": "674-491-4903x25521"
+            }
+        }
+    },
+    {
+        "name": "Timothyview-Lisachester",
+        "vehicle": {
+            "placa": "W59 5AU",
+            "modelo": "2012",
+            "capacity_carga": "14",
+            "sucursal_id": 6,
+            "marca": "Smith, Davis and Roberts",
+            "description": "Article throw contain half data.",
+            "conductor": {
+                "name": "Jessica Gomez",
+                "phone": "832-654-9092x1990"
+            },
+            "auxiliar": {
+                "name": "Nicole Adams",
+                "phone": "625.144.3047x719"
+            }
+        }
+    },
+    {
+        "name": "Carrollfurt-West Wesley",
+        "vehicle": {
+            "placa": "XRG 3101",
+            "modelo": "2003",
+            "capacity_carga": "18",
+            "sucursal_id": 8,
+            "marca": "Moore-Mathis",
+            "description": "Cultural onto address order hospital thing any.",
+            "conductor": {
+                "name": "Christopher Ramirez",
+                "phone": "674.471.0872"
+            },
+            "auxiliar": {
+                "name": "Randy Miranda",
+                "phone": "685-054-6813x3089"
+            }
+        }
+    },
+    {
+        "name": "West Tinaland-Caseshire",
+        "vehicle": {
+            "placa": "Y76 0XD",
+            "modelo": "2003",
+            "capacity_carga": "1",
+            "sucursal_id": 3,
+            "marca": "Morales-Vega",
+            "description": "Day issue culture record.",
+            "conductor": {
+                "name": "Paul Hayes",
+                "phone": "(160)189-6165"
+            },
+            "auxiliar": {
+                "name": "Heather Clark",
+                "phone": "+1-871-634-2880x32354"
+            }
+        }
+    },
+    {
+        "name": "Leview-South Aaronview",
+        "vehicle": {
+            "placa": "8H 1817M",
+            "modelo": "2016",
+            "capacity_carga": "11",
+            "sucursal_id": 6,
+            "marca": "Morales, Lucero and Bryant",
+            "description": "Heart affect among.",
+            "conductor": {
+                "name": "Yolanda Shelton",
+                "phone": "+1-054-640-4455x4241"
+            },
+            "auxiliar": {
+                "name": "Nancy Stanley",
+                "phone": "001-837-078-6316x835"
+            }
+        }
+    },
+    {
+        "name": "Lake Willieberg-Bettyfurt",
+        "vehicle": {
+            "placa": "149-691",
+            "modelo": "2004",
+            "capacity_carga": "8",
+            "sucursal_id": 1,
+            "marca": "Melton-Ray",
+            "description": "Become new store. Say also term seat stuff onto.",
+            "conductor": {
+                "name": "Ryan Obrien",
+                "phone": "001-608-144-9555x46452"
+            },
+            "auxiliar": {
+                "name": "Ruth Lowe",
+                "phone": "001-259-371-0281"
+            }
+        }
+    },
+    {
+        "name": "North Rebecca-Ericachester",
+        "vehicle": {
+            "placa": "4-93629",
+            "modelo": "2024",
+            "capacity_carga": "7",
+            "sucursal_id": 1,
+            "marca": "Lewis, Wilcox and Rich",
+            "description": "Standard health budget we food value skin.",
+            "conductor": {
+                "name": "Anna Saunders",
+                "phone": "+1-536-487-5373x232"
+            },
+            "auxiliar": {
+                "name": "Dean Franklin",
+                "phone": "416.887.3471x530"
+            }
+        }
+    },
+    {
+        "name": "Humphreyland-Dennisstad",
+        "vehicle": {
+            "placa": "232 QSI",
+            "modelo": "2023",
+            "capacity_carga": "16",
+            "sucursal_id": 7,
+            "marca": "Sanders-Roberts",
+            "description": "Evidence growth feeling program while south.",
+            "conductor": {
+                "name": "Margaret Newton",
+                "phone": "824.791.5307x43259"
+            },
+            "auxiliar": {
+                "name": "Carlos Anderson",
+                "phone": "001-937-139-9732x0264"
+            }
+        }
+    },
+    {
+        "name": "Jerryshire-Sarahburgh",
+        "vehicle": {
+            "placa": "4DG F11",
+            "modelo": "2022",
+            "capacity_carga": "8",
+            "sucursal_id": 10,
+            "marca": "Pierce PLC",
+            "description": "Safe scientist worry detail can assume quickly.",
+            "conductor": {
+                "name": "Nicholas Thomas",
+                "phone": "979-673-5589"
+            },
+            "auxiliar": {
+                "name": "Debra Mcpherson",
+                "phone": "8035403977"
+            }
+        }
+    },
+    {
+        "name": "Haysland-Port Amandashire",
+        "vehicle": {
+            "placa": "335S6",
+            "modelo": "2018",
+            "capacity_carga": "14",
+            "sucursal_id": 8,
+            "marca": "Reed-Gray",
+            "description": "He ever share pressure research.",
+            "conductor": {
+                "name": "Wayne Perry",
+                "phone": "001-761-629-7568x65629"
+            },
+            "auxiliar": {
+                "name": "Jordan Arnold",
+                "phone": "575-157-1893"
+            }
+        }
+    },
+    {
+        "name": "Cameronbury-New Janet",
+        "vehicle": {
+            "placa": "ZTH 974",
+            "modelo": "2019",
+            "capacity_carga": "7",
+            "sucursal_id": 5,
+            "marca": "Thomas, Jones and Novak",
+            "description": "Parent head American wide lay.",
+            "conductor": {
+                "name": "Holly Walton",
+                "phone": "(461)885-1735"
+            },
+            "auxiliar": {
+                "name": "Jennifer Sandoval",
+                "phone": "3888190699"
+            }
+        }
+    },
+    {
+        "name": "West Carla-Lake Tracyland",
+        "vehicle": {
+            "placa": "PEH1277",
+            "modelo": "2001",
+            "capacity_carga": "11",
+            "sucursal_id": 2,
+            "marca": "Carr-Allen",
+            "description": "Value early car improve require.",
+            "conductor": {
+                "name": "Richard Garcia",
+                "phone": "8992501772"
+            },
+            "auxiliar": {
+                "name": "Casey Clark",
+                "phone": "842-051-0941"
+            }
+        }
+    },
+    {
+        "name": "Rosetown-West Shelby",
+        "vehicle": {
+            "placa": "X75 5LJ",
+            "modelo": "2013",
+            "capacity_carga": "13",
+            "sucursal_id": 2,
+            "marca": "Khan and Sons",
+            "description": "Question two nation lot wind.",
+            "conductor": {
+                "name": "Nicole Moon",
+                "phone": "001-187-402-0502x43409"
+            },
+            "auxiliar": {
+                "name": "Diane Colon",
+                "phone": "+1-527-431-1604"
+            }
+        }
+    }
+]
